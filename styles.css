@@ -1,0 +1,22 @@
+html {
+  background: rgb(187, 195, 93);
+  text-align: center;
+}
+
+h1 {
+  color: #6776b8;
+  font-size: 54px;
+  font-family: "Rockwell extra bold";
+}
+p {
+  color: #081861;
+  font-family: "Futura";
+  font-size: 24px;
+  text-align: center;
+}
+ul {
+  color: #6776b8;
+  font-size: 16px;
+  font-family: "Rockwell";
+  list-style-type: none;
+}
